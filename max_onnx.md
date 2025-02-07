@@ -1,4 +1,4 @@
-#Run an ONNX model with Python
+*Run an ONNX model with Python*
 
 MAX 엔진은 AI 모델의 추론 속도를 향상시키는 도구다. 특히 PyTorch 모델을 ONNX 형식으로 변환하여 MAX 엔진을 사용하면, 모델을 수정하지 않고도 CPU나 GPU에서 더 빠르게 실행할 수 있다.
 
@@ -18,9 +18,6 @@ MAX 엔진은 AI 모델의 추론 속도를 향상시키는 도구다. 특히 Py
 **요약:**
 
 MAX 엔진은 AI 모델의 성능을 최적화하여 더 빠르고 효율적으로 실행할 수 있게 해주는 도구라고 생각하면 된다. 특히, 모델을 직접 수정할 필요 없이 간단한 코드를 통해 속도 향상을 얻을 수 있다는 장점이 있다.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/22033579/fa529b10-1376-4c05-90e8-61a13449efd0/paste.txt
 
 ## MAX 엔진 사용 실습 과정 (쉽게 따라하기)
 
@@ -141,6 +138,3 @@ Citations:
 *   에러 발생 시, 각 단계별 코드를 꼼꼼히 확인하고, 필요한 패키지가 제대로 설치되었는지 확인한다.
 *   MAX 엔진 버전(`max~=24.6`)과 PyTorch 버전(`pytorch==2.4.0`)을 명확하게 지정하여 설치한다.
 *   터미널 명령어 실행 시, 오타가 없는지 확인한다.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/22033579/fa529b10-1376-4c05-90e8-61a13449efd0/paste.txt
